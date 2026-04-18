@@ -47,4 +47,6 @@ g++ main.cpp -lncurses -o game
 
 ./game
 ### 🎮 Добро пожаловать в мир GUANTY SRINP!
-
+### мы на PASTEBIN
+  ## [PROJECT](https://pastebin.com/6GFsLQ8b/)
+  # СТАВЬТЕ ЛАЙКИ И СКАЧИВАЙТЕ С ПАСТЕБИНА
